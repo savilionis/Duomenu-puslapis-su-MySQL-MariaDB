@@ -1,8 +1,8 @@
 <?php
-$servername = "92.61.37.237";
-$username = "Admin";
-$db = "stasys_savDB";
-$password = "savilionis1";
+$servername = "";
+$username = "";
+$db = "";
+$password = "";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password,$db);
